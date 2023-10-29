@@ -1,0 +1,9 @@
+[submodule "vendor/github.com/higebu/netfd"]
+	path = vendor/github.com/higebu/netfd
+	url = https://github.com/hilbix/go-netfd.git
+[submodule "vendor/github.com/bmatsuo/lmdb-go"]
+	path = vendor/github.com/bmatsuo/lmdb-go
+	url = https://github.com/hilbix/lmdb-go.git
+[submodule "vendor/github.com/pires/go-proxyproto"]
+	path = vendor/github.com/pires/go-proxyproto
+	url = https://github.com/hilbix/go-proxyproto.git
